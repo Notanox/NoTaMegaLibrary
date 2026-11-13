@@ -1,0 +1,23 @@
+
+{
+    "geode": "5.11.2",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081",
+        "ios": "2.2081"
+    },
+    "id": "notameganox.notamegalibrary",
+    "name": "NoTaMegaLibrary",
+    "version": "v0.0.2",
+    "developer": "NoTaMegaNox",
+    "description": "A Usable Geode Library for easier access to certain commands and places!",
+    "dependencies": {
+        "geode.node-ids": ">=v1.23.3"
+    },
+"api": {
+    "include": [
+        "include/**/*.hpp"
+    ]
+}
+}
